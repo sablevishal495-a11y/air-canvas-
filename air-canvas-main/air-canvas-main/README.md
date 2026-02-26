@@ -19,7 +19,7 @@ python -m pip install -r requirements.txt
 
 If `mediapipe` fails to install on your machine, see troubleshooting below.
 
-## Run
+## Run 
 ```powershell
 python air_canvas.py
 ```   
@@ -39,5 +39,6 @@ python -m pip install mediapipe
 
 ---
 Made by: Air Canvas helper
+
 
 
